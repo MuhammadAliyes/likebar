@@ -222,12 +222,6 @@ h1{
   border-radius: 10px; /* Optional: Round the corners of the video */
 }
 
-/* Optional: Add hover effect */
-.responsive-video:hover {
-  transform: scale(1.05);
-  transition: transform 0.3s ease;
-}
-
 
 .about-img{
   height: 50%;
